@@ -32,12 +32,11 @@
             <div class="row">
                 <div class="col-6">
                     <div class="card text-white" style="background-color: #272727;">
-                        <div class="card-header text-white" style="font-size: 1.25em">Address Misinformation and Toxicity</div>
+                        <div class="card-header text-white" style="font-size: 1.25em">Address Twitter Toxicity</div>
                         <div class="card-body">
                            
-                            <p class="card-text text-muted">
-                                With supporting text below as a natural lead-in
-                                to additional content.
+                            <p class="card-text text-light text-left" style="font-weight: 200;">
+                                In our digital world, cyberbullying in social media platforms such as Twitter can cause detrimental effects on an individual's mental health. Therefore, it is essential to address this issue to create a positive and secure environemnt where individuals can safely interact with other users.
                             </p>
                         </div>
                     </div>
@@ -46,9 +45,8 @@
                     <div class="card " style="background-color: #272727;">
                         <div class="card-header text-white" style="font-size: 1.25em"> The Project</div>
                         <div class="card-body">
-                            <p class="card-text text-muted">
-                                With supporting text below as a natural lead-in
-                                to additional content.
+                            <p class="card-text text-light text-left" style="font-weight: 200;">
+                                TwitterSecurity aims to promote a positive social media environment by identifying and filtering harmful Tweets/messages. This project incorporates aspects of Google's Material Design and uses Tensorflow.js, Vue.js, Tweetjs, and the official Twitter API to streamline the user experience.
                             </p>
                         </div>
                     </div>
